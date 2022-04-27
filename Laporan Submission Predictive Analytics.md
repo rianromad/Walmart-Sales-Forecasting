@@ -4,11 +4,12 @@
 <br><br>
 
 **Contents:**
-**1. [Project Domain](#project-domain)**
-**2. [Business Understanding](#business-understanding)**
-**3. [Data Preparation](#data-preparation)**
-**4. [Modeling](#modeling)**
-**5. [Evaluation](#evaluation)**
+
+- [Project Domain](#project-domain)
+- [Business Understanding](#business-understanding)
+- [Data Preparation](#data-preparation)
+- [Modeling](#modeling)
+- [Evaluation](#evaluation)
 
 ## Project Domain
 
